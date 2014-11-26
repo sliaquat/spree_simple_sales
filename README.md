@@ -9,7 +9,7 @@ Installation
 Add spree_simple_sales to your Gemfile:
 
 ```ruby
-gem 'spree_simple_sales'
+gem 'spree_simple_sales', github: 'fruqi/spree_simple_sales'
 ```
 
 Bundle your dependencies and run the installation generator:
